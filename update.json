@@ -3,6 +3,6 @@
     "update_apk_size":"30.5m",
     "update_constraint":true,
     "update_content":"1.修复播放器部分视频无法播放的bug\n2.若下载之后无法覆盖安装，说明你安装的是盗版软件\n3.盗版软件可以到我的里面找分享二维码重新下载安装\n\n\n",    "update_url":"https://pan.bilnn.cn/api/v3/file/sourcejump/Xrw5rzFd/G2-ztkAYARG1_vxgEMqwU_pN5FlHI-YC_bR7k_t5jKE*",
-    "version_code":21,
+    "version_code":13,
     "version_name":"2.2.1"
 }
