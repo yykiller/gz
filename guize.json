@@ -1,6 +1,6 @@
 {
-  "Code": 205,
-  "Version": 98,
+  "Code": 1,
+  "Version": 1,
   "Caokey": "SNawBD6MeebTNtSUl5UT9kS0",
   "Caokey2": "0gqy2dJNqlmY0mR4",
   "Nxflvenc": "your@menxflv@com",
@@ -11,28 +11,19 @@
 	"parserjson": [
 	 
 	 {
-        "name": "8090",
-		"parserType": "json",
-		"webType": "iqiyi,youku,pptv,1905,migu,fun,wasu,leshi,360kan",
-		"header": "",
-        "url": "https://8090.gdkaman.com/jiexi20210115/api.php@referer=&ref=0&time=1611808235&type=&other=&ios=&url=",
-		"enable": true
-      },
-      
-	 {
-        "name": "芒果",
-		"parserType": "json",
-		"webType": "mgtv",
-		"header": "",
-        "url": "https://plamgtvcache.ccyjjd.com/mgtv20210115%60/api.php@referer=&ref=0&time=1611813966&type=&other=&ios=&url=",
-		"enable": true
-      },
-       {
-        "name": "timer",
+        "name": "Parwix解析",
 		"parserType": "webview",
-		"webType": "qq",
+		"webType": "mgtv,1905,iqiyi,youku,qq,souhu,pptv",
 		"header": "",
-        "url": "https://timerd.me/static/tv.html?zwx=",
+        "url": "https://vip.parwix.com:4433/player/?url=",
+		"enable": true
+      },
+      {
+        "name": "m3u8解析",
+		"parserType": "webview",
+		"webType": "mgtv,1905.iqiyi,youku,qq,souhu,pptv",
+		"header": "",
+        "url": "https://jx.m3u8.tv/jiexi/?url=",
 		"enable": true
       },
 	 {
