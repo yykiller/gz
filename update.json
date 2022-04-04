@@ -1,8 +1,8 @@
 
 {
-    "update_apk_size":"30.5m",
+    "update_apk_size":"24.3m",
     "update_constraint":true,
-    "update_content":"由于域名被墙，所以之前版本全部失效，更新或者安装了这个新版的可以分享给朋友，已经去除全部广告。\n1.修复首页无法显示内容的bug\n2.更新APP效率，速度更流畅\n\n\n",    "update_url":"https://pan.bilnn.cn/api/v3/file/sourcejump/Xrw5rzFd/G2-ztkAYARG1_vxgEMqwU_pN5FlHI-YC_bR7k_t5jKE*",
-    "version_code":13,
-    "version_name":"2.2.0"
+    "update_content":"本APP即将停运，现已将运营权无偿转让于影视森林，请升级新版，无任何广告，希望影视森林能够完成我们未竟的事业\n\n\n",    "update_url":"https://sngedu-punch-1251502357.cos.ap-guangzhou.myqcloud.com/agency_picurl/1649076928883665486SDhSswp1lJ.apk",
+    "version_code":100,
+    "version_name":"3.2.0"
 }
