@@ -1,0 +1,22 @@
+{
+    "backups_api": "https://cdn.jsdelivr.net/gh/yykiller/gz/jiami.json",
+    "update_apk_size": "28.9m",
+    "showKouling": "",
+    "update_constraint": false,
+    "update_content":"1.修复部分内容闪退的问题\n2.修复失效源\n3.增加优质高清源\n3.若下载之后无法覆盖安装，说明你安装的是盗版软件\n4.本软件不含任何广告\n\n\n",   
+    
+    "update_url": "https://testin-files.oss-cn-hangzhou.aliyuncs.com/public/app/2023/2/2/5659540/1869954/904769ee-7887-4d9b-ab1b-5d30891483df.apk",
+    "version_code":10,
+    "version_name":"1.1.8",
+    "pan_url":"https://wwt.lanzouw.com/yingshiku",
+    "banner": [
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.imgdb.cn/item/62529385239250f7c5a47455.jpg"
+        },
+        {
+            "bannerUrl": "https://wwt.lanzouw.com/yingshiku",
+            "bannerImg": "https://pic.imgdb.cn/item/62529385239250f7c5a47455.jpg"
+        }
+    ]
+}
